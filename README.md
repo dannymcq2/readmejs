@@ -2,7 +2,7 @@
 # readme generator
 
 ## Description
-will help create readme files for projects
+This project will help assist in creating readme files when needed for any project.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,16 +13,16 @@ will help create readme files for projects
 - [Questions](#questions)
 
 ## Installation
-no installation needed. will run on command line with node
+There is no installation that's needed. This will run on command line with node.
 
 ## Usage
-used to help generate readme files
+Use this generator to help to create a simple README file.
 
 ## Contributing
-na
+
 
 ## Tests
-running right now
+Command
 
 ## Additional Resources
 
