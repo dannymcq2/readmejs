@@ -24,6 +24,8 @@ na
 ## Tests
 running right now
 
+[![Watch the video](https://drive.google.com/file/d/https://drive.google.com/file/d/17G3isfb-hzF7ONImDJ0srymOhMkN3tga/view)
+
 ## License
 This project is licensed under the MIT license.
 
