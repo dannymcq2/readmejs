@@ -24,7 +24,10 @@ na
 ## Tests
 running right now
 
-<iframe src="https://drive.google.com/file/d/https://drive.google.com/file/d/17G3isfb-hzF7ONImDJ0srymOhMkN3tga/view" width="640" height="480"></iframe>
+## Additional Resources
+
+For more details, refer to the [documentation](https://drive.google.com/file/d/17G3isfb-hzF7ONImDJ0srymOhMkN3tga/view).
+
 
 ## License
 This project is licensed under the MIT license.
